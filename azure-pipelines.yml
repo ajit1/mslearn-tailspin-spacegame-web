@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'macOs'
+  name: 'ajit-home'
   demands:
     - npm
 
